@@ -1,0 +1,10 @@
+faster-whisper
+sounddevice
+numpy
+pyaudio
+openwakeword
+torch
+openai
+langgraph
+typing_extensions
+google-genai
