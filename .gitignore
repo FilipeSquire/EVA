@@ -1,0 +1,20 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Text files (transcripts, logs)
+*.txt
+
+# Session files
+memory/trans/*.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
